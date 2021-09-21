@@ -1,0 +1,46 @@
+body{
+	background: green;
+
+}
+
+h1{
+	color: orange;
+	font-family: papyrus;
+	text-align: center;
+
+}
+p{
+	color: blue;
+	font-family: papyrus;
+	text-align: center;
+	
+}
+p{
+	color: orange;
+	font-family: papyrus;
+	text-align: 
+}
+
+
+
+
+h2{
+	color: orange;
+	font-family: papyrus;
+	text-align: center;
+}
+
+
+
+
+
+li{
+	color: blue;
+	font-family: papyrus;
+
+}
+
+ul{
+	margin: 0 auto;
+	display: table;
+}

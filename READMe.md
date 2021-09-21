@@ -1,0 +1,1 @@
+<p>This is my "cheat sheet" for making a website in netlify. It features all the important steps is successfully creating a website for your own personal use. Through these decently easy steps you will have a sight up and running in no time.</p>
